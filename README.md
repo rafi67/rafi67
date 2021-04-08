@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafi
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on android development
+- 💞️ I’m looking to collaborate on android app development
 - 📫 How to reach me ...
 rafisiddique652@gmail.com
 <!---
