@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently practicing problem-solving on leetcode
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me ...
 rafisiddique652@gmail.com
