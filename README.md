@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafi
-- 👀 I’m interested in programming
+- 👀 I’m interested in full stack engineering 
 - 🌱 I’m currently Locking for a job at web Development 
 - 💞️ I have developed some project on Asp.net core, Asp.net core web api and Angular 
 - 📫 How to reach me ...
