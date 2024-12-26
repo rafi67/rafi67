@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafi
 - 👀 I’m interested in full-stack engineering 
 - 🌱 I’m currently Looking for a job in web Development 
-- 💞️ I have developed some projects on Asp.net core, Asp.net core web API and Angular 
+- 💞️ I have developed some projects on Asp.net core, Asp.net core web API, Angular, React and Express 
 - 📫 How to reach me ...
 rafisiddique652@gmail.com
 - Phone: +8801767778364
