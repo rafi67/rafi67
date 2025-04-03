@@ -27,5 +27,5 @@
 <p><a href="https://www.buymeacoffee.com/rafisiddiqy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rafisiddiqy" /></a></p><br><br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafi67&show_icons=true&locale=en&layout=compact" alt="rafi67" /></p>
-<br> <br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafi67&show_icons=true&locale=en" alt="rafi67" /></p>
